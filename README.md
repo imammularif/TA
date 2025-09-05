@@ -8,6 +8,7 @@
 - Download File project
 - Untuk dapat menjalankan program tersebut, silahkan melakukan penginstalan keadalam computer/leptop dengan cara melakukan
 sebagai berikut :
+
 • Buka python.org di browser
 • Pilih tombol Download
 • Pilih sesuai sistem operasi yang kamu gunakan seperti Windows, Linux atau Mac
