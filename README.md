@@ -16,5 +16,8 @@ sebagai berikut :
 • Secara otomatis file akan terdownload
 
 - Setelah langah diatas telah dilakukan dan python telah terinstall, untuk mnegecek apakah python sudah terinstal apa belum, dapat dicek kedalam cmd/terminal dengan mengetik : python --version
+  
+![Cek](images/contoh.png)
+
 
 
