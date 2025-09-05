@@ -25,7 +25,7 @@ Untuk dapat menjalankan program ini, silakan lakukan instalasi Python dengan lan
 
 - Download file Project Smart-Absensi-main
 - Buka file pythonya menggunakan VSCode
-- Lalu, jalankan programnya dengan klik icon di kanan atas (run python file), dan progrmanya akan berjalan. (Untuk tata cara penggunaanya, ada di folder program (Readme)
+- Lalu, jalankan programnya dengan klik icon di kanan atas (run python file), dan progrmanya akan berjalan. (Untuk tata cara penggunaanya, ada di dalam folder program (Readme)
 - Sekian
 
 
