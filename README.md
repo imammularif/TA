@@ -14,9 +14,11 @@ Untuk dapat menjalankan program ini, silakan lakukan instalasi Python dengan lan
 - File instalasi akan otomatis terunduh
 - instal File tersebut, nunggu hingga instalasi selesai
 - JIka instalasi python selesai, cek menggunakan CMD/Terminal menggunakan perintah berikut
+  
    ```bash
      python --version
      ```
+   
 ![Cek](https://github.com/imammularif/TA/blob/main/Source/cek%20python.png)
 
 
