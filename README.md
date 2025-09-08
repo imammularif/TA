@@ -30,7 +30,8 @@ Untuk dapat menjalankan program ini, silakan lakukan instalasi Python dengan lan
 
 ## Contoh tampilan Progrmanya
 
-![Tampilan_demo_program](https://github.com/imammularif/TA/blob/main/Source/SS%20DEMO.png)
+<img src="https://github.com/imammularif/TA/blob/main/Source/SS%20DEMO.png" alt="Tampilan_demo_program" width="400">
+
 
 
 
