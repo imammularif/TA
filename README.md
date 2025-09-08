@@ -28,5 +28,12 @@ Untuk dapat menjalankan program ini, silakan lakukan instalasi Python dengan lan
 - Lalu, jalankan programnya dengan klik icon di kanan atas (run python file), dan progrmanya akan berjalan. (Untuk tata cara penggunaanya, ada di dalam folder program ([README](https://github.com/imammularif/TA/blob/main/Smart-Absensi-main/README.md))
 - Sekian
 
+## Contoh tampilan Progrmanya
+
+![Tampilan_demo_program](https://github.com/imammularif/TA/blob/main/Source/SS%20DEMO.png)
+
+
+
+
 
 
